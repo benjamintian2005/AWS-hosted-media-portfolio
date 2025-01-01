@@ -3,7 +3,7 @@ import { ChevronLeft, ChevronRight, Github, Twitter, Instagram, Play } from 'luc
 import {mediaData} from './data.js'
 
 
-const MediaDashboard = () => {
+function MediaDashboard() {
   // Sample data structure remains the same as before
   const profile = {
     name: "Benjamin Tian",
