@@ -1,5 +1,7 @@
 
-import MediaDashboard from './components/MediaDashboard';
+//@ts-ignore
+
+import {MediaDashboard} from './components/MediaDashboard';
 //test commit
 
 function App() {
