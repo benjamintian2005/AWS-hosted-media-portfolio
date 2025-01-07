@@ -1,25 +1,19 @@
-## AWS Amplify React+Vite Starter Template
+# AWS Hosted Media Portfolio in React
 
-This repository provides a starter template for creating applications using React+Vite and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
-
-## Overview
-
-This template equips you with a foundational React application integrated with AWS Amplify, streamlined for scalability and performance. It is ideal for developers looking to jumpstart their project with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
+## Project Overview
+This project is a personal media portfolio built using React.js and hosted on AWS. The portfolio showcases various media consumed and created by the developer, such as favorite movies, books, songs, albums, plays, and artists. The portfolio also features dynamically updated sections like "Currently Watching, Playing, Reading."
 
 ## Features
+- **Responsive Design**: Optimized for viewing on both desktop and mobile devices.
+- **Carousel Sections**: Interactive carousels for browsing favorite media.
+- **Dynamic Updates**: Sections like "Currently Watching" fetch live updates from a backend.
+- **Media Links**: Direct links to stream or purchase media (e.g., Spotify, Amazon, etc.).
+- **Social Media Integration**: Links to personal profiles on various platforms.
 
-- **Authentication**: Setup with Amazon Cognito for secure user authentication.
-- **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
-- **Database**: Real-time database powered by Amazon DynamoDB.
+## Technology Stack
+- **Frontend**: React.js
+- **Hosting**: AWS (Amazon Amplify)
 
-## Deploying to AWS
 
-For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws) of our documentation.
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
+## Project Demo
+Check out the live website here: [Live Demo]([your-website-link](https://main.d1pg21dn3jhrgj.amplifyapp.com/))
